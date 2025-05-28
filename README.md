@@ -36,7 +36,7 @@ Located in `event-level-analysis/`:
 
 ## 📁 Folder Structure
 
-├── data/ # Raw event data
-├── profile-level-analysis/
-├── event-level-analysis/
-└── results/# e-commerce-data-quality-analysis
+- data/ # Raw event data
+- profile-level-analysis/
+- event-level-analysis/
+- analysis_presentation/
