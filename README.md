@@ -39,4 +39,4 @@ Located in `event-level-analysis/`:
 ├── data/ # Raw event data
 ├── profile-level-analysis/
 ├── event-level-analysis/
-└── results/
+└── results/# e-commerce-data-quality-analysis
